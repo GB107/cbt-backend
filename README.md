@@ -35,6 +35,4 @@ $ node index.js
 #### Base Url - `http://localhost:{PORT}`
 
 
-## 🎩 Author
 
-- IJONI VICTOR😁😁😁
